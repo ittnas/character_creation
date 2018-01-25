@@ -1,0 +1,2 @@
+# character_creation
+This program is used as a character sheet for a pen and paper role playing game thfe version 3 (the meaning of the acronym is long forgotten). The templates for the rules and skill trees are saved saved in .ch files. The actual character information is saved in .chr files, though they are identical to the rule files.

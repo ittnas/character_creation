@@ -1,0 +1,9 @@
+defaultCharacter = ./thfe.ch
+font = Bookman Old Style
+fontSize = 14
+background = tausta.JPG
+fontColor = 200, 230, 255, 255
+weakColor = 255,69,0, 255
+averageColor = 255,215,20,255
+strongColor = 34,139,34,255
+mouseOverColor = 255,255,255,255
